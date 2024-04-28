@@ -1,0 +1,37 @@
+{
+  "name": "goit-node-hw-01",
+  "version": "1.0.0",
+  "description": "managing contacts file",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "",
+    "url": ""
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": "",
+    "start": "node index.js",
+    "start:dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^3.1.0",
+    "yargs": "^17.7.2"
+  }
+}
